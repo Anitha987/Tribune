@@ -1,4 +1,4 @@
-# Instagram
+# Tribune
 ## {Instagram-Project}
 
 ## Description 
